@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=S.I.Shuvo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-  <img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  <img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
 </p>
 
 ## 🧠 My Focus Areas
@@ -8,7 +8,6 @@
 - App Development
 - Software Development
 - AI Development
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -57,7 +56,6 @@
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
