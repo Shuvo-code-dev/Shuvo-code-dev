@@ -1,9 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=S.I.Shuvo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Shuvo-code-dev">
-    <img src="https://komarev.com/ghpvc/?username=Shuvo-code-dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="Shuvo-code-dev's profile views" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=S.I.Shuvo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
 ## 🧠 My Focus Areas
