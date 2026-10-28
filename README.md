@@ -3,8 +3,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Shuvo-code-dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shuvo-code-dev&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Shuvo-code-dev's GitHub Stats" />
+  <a href="https://github.com/ShuvoStarlight">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SShuvoStarlight&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="S.I.Shuvo's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Shuvo-code-dev&theme=radical&hide_border=true&cache_seconds=86400" alt="Shuvo-code-dev's GitHub Streak" width="49%" />
 </p>
