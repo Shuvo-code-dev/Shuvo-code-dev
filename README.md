@@ -1,19 +1,19 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
-  <img alt="S.I.Shuvo: Building innovations for the future I want to live in. Cinematic title card: a black hole whose accretion disk is drawn from 313 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
+  <img alt="S.I.Shuvo: Building innovations for the future I want to live in. Cinematic title card: a black hole whose accretion disk is drawn from 314 contributions, one particle per day." src="./assets/singularity-hero-light.svg" width="100%">
 </picture>
 </p>
 
 <p align="center"><b>S.I.Shuvo</b> · Building innovations for the future I want to live in.</p>
-<p align="center"><a href="https://g.dev/shuvo2011"><img src="./assets/links/website.svg" alt="g.dev" height="28"></a> <a href="https://instagram.com/s.i.shuvo_"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a></p>
+<p align="center"><a href="https://g.dev/shuvo2011"><img src="./assets/links/website.svg" alt="g.dev" height="28"></a> <a href="https://x.com/shuvo_2011"><img src="./assets/links/x.svg" alt="X" height="28"></a> <a href="https://instagram.com/s.i.shuvo_"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a></p>
 
 #### Telemetry
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-telemetry-dark.svg">
-  <img alt="Mission telemetry for Horizon I: 1 years on GitHub, 313 contributions in the last 12 months, 34 active days, longest streak 7 days, 1 stars, 2 followers." src="./assets/singularity-telemetry-light.svg" width="100%">
+  <img alt="Mission telemetry for Horizon I: 1 years on GitHub, 314 contributions in the last 12 months, 34 active days, longest streak 7 days, 1 stars, 2 followers." src="./assets/singularity-telemetry-light.svg" width="100%">
 </picture>
 </p>
 
