@@ -1,82 +1,37 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Saiful%20Islam%20Shuvo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ShuvoStarlight">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SShuvoStarlight&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="S.I.Shuvo's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Shuvo-code-dev&theme=radical&hide_border=true&cache_seconds=86400" alt="Shuvo-code-dev's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Shuvo-code-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Saiful Islam Shuvo's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Shuvo-code-dev&theme=radical&radius=10" alt="Shuvo-code-dev's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
-
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pulsar-header-dark.svg">
+  <img alt="S.I.Shuvo — Building innovations for the future I want to live in. Ridgeline of 311 contributions over the last 12 months, one ridge per month." src="./assets/pulsar-header-light.svg" width="100%">
+</picture>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+**S.I.Shuvo** — Building innovations for the future I want to live in.
 
+<p><a href="https://g.dev/shuvo2011"><img src="./assets/links/website.svg" alt="g.dev" height="28"></a> <a href="https://instagram.com/s.i.shuvo_"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://x.com/shuvo_2011"><img src="./assets/links/x.svg" alt="X" height="28"></a></p>
+
+#### Selected work
+
+- **[Bulz](https://github.com/Shuvo-code-dev/Bulz)** — 🛠️ Halqa | All-in-one Dev Suite. Features interactive Web/Mobile Roadmaps, Framer Motion UI Components, and Public API Directory. The ultimate resource for Next.js, React, and Full-stack developers.  
+  <sub>TypeScript · ★ 1</sub>
+- **[Tracer](https://github.com/Shuvo-code-dev/Tracer)** — Single-file, zero-dependency UTM campaign link generator with quick presets and SEO-friendly clean URL slug maker.  
+  <sub>HTML</sub>
+- **[Vhiper](https://github.com/Shuvo-code-dev/Vhiper)** — Single-file, zero-dependency Bangladeshi mobile number validator, formatter (+8801 / 01), deduplicator, and operator detector (GP, Robi, Airtel, Banglalink, Teletalk).  
+  <sub>HTML</sub>
+- **[Whiteboard](https://github.com/Shuvo-code-dev/Whiteboard)** — Lightweight, single-file, zero-dependency HTML5 Canvas whiteboard for freehand mouse/touch sketching, undo, eraser, and PNG export.  
+  <sub>HTML</sub>
+
+#### Stack
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pulsar-strata-dark.svg">
+  <img alt="Language mix drawn as strata: TypeScript 51%, CSS 29%, Dart 10%, HTML 9%, JavaScript 1%." src="./assets/pulsar-strata-light.svg" width="100%">
+</picture>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+<details>
+<summary><sub>Colophon</sub></summary>
 
-</p>
+<sub>The header is a ridgeline in the manner of the PSR B1919+21 pulsar plot: each line is one month, its shape traced from that month's daily contributions; the brightest line is the busiest month. Strata show language share by bytes across public repositories. Static SVG, generated by README Templates · template: Pulsar.</sub>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shuvo-code-dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shuvo-code-dev&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
+</details>
